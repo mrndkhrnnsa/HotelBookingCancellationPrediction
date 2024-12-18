@@ -102,7 +102,7 @@ However, during the spring season, there is a notable increase in cancellation r
 
 ### Cancellation Status by Deposit Type
 
-![Cancellation Status by Deposit Type](images/deposit_cancellations,png)
+![Cancellation Status by Deposit Type](images/deposit_cancellations.png)
 
 **Insight:** Customers who paid a non-refundable deposit type tend to have higher cancellation rates. "No Deposit" may often be part of guaranteed stays or reservations closer to the travel date.
 
